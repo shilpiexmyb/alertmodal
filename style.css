@@ -3,6 +3,7 @@
     
    img{
        width:125px;
+       margin-top: -15px;
    }
 
     .modal-box{ font-family: 'Raleway', sans-serif; }
@@ -104,7 +105,7 @@
         text-transform: uppercase;
         width: 52%;
         height: 43px;
-        margin-top: -1px;
+        margin-top: -13x;
         padding: 10px 7px;
         border: none;
         /* border-radius: 50px; */
