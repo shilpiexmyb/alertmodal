@@ -9,7 +9,7 @@
     .modal-box{ font-family: 'Raleway', sans-serif; }
     .modal-box .show-modal{
         color: #fff;
-        background: linear-gradient(45deg, #e74c3c, #e74c3c);
+        background: #e74c3c;
         font-size: 18px;
         font-weight: 600;
         text-transform: capitalize;
@@ -39,7 +39,7 @@
         color: #e74c3c;
         text-align: center;
         border: none;
-        /* border-radius: 50px; */
+
         box-shadow: 0 5px 15px 5px #e74c3c;
         width: 461px;
     height: 438px;
@@ -52,7 +52,7 @@
         text-shadow: none;
         line-height: 12px;
         height: 30px;
-        /* width: 30px; */
+     
         overflow: hidden;
         opacity: 1;
         position: absolute;
@@ -70,10 +70,10 @@
     background: linear-gradient(
 45deg, #e74c3c, #e74c3c);
     font-size: 50px;
-    /* line-height: 170px; */
+    
     width: 96px;
     height: 84px;
-    /* margin-top: 106px; */
+  
     margin: 0 auto 55px;
     box-shadow: 0 0 0 7px #fff, 0 0 0 15px #e74c3c, 0 0 0 22px #fff, 0 0 0 25px rgb(65 224 126 / 15%);
     border-radius: 50%;
@@ -108,7 +108,7 @@
         margin-top: -13x;
         padding: 10px 7px;
         border: none;
-        /* border-radius: 50px; */
+        
         transition: all 0.3s ease 0s;
 }
 .btn a{
@@ -120,8 +120,5 @@
     color: white;
 }
     
-    .modal-box .modal-dialog .modal-content .modal-body .btn:focus{ outline: none; }
-    @media only screen and (max-width: 480px){
-        .modal-dialog{ width: 95% !important; }
-    }
+    
     
